@@ -9,4 +9,4 @@ and xmake based build script.
 1. openjdk
 
 ## Building
-`xmake lua build-android.lua`
+`xmake run build-android`
